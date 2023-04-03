@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="your_score">Your Score</string>
+    <string name="Chonthicha_Thuratham">ViewChonthicha Thuratham</string>
+    <string name="chonthichath_kkumail_com">chonthichath@kkumail.com</string>
+    <string name="quizapp">QuizApp</string>
+</resources>
